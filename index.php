@@ -14,7 +14,7 @@
 <tr>
  <td width="">&nbsp;</td>
  <td width="1003" align="center">
-   <table width="100%" border="0" cellpadding="0" cellspacing="0">
+ 	<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <!--head-->  <tr>  <td align="left" valign="top"><link href="css/style.css" rel="stylesheet" type="text/css" />
 
 <script type="text/javascript" >
@@ -380,7 +380,7 @@
 	</script>
     
     <td align="left" valign="middle">5000 *  <script>
-	document.write(mytext);</script> = 10000</td>
+	document.write(qu);</script> = 10000</td>
     <td align="left" valign="middle">delete</td>
   </tr>
          </table>
